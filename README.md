@@ -14,6 +14,6 @@ output: html_document
 
 | Table of Content                 | Author        |
 | -------------------------------- | ------------- |
-| [Category tags](./Category-tags) | Samiksyakc    |
+| [Category tags](./Category-tags) | Samikshya K C    |
 | [Bottom footer](./Bottom-footer) | Paul Campbell |
 | [Site header](./Site-header)     | Elio Gerges   |
