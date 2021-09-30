@@ -4,7 +4,7 @@ author: "Elio Gerges, Samiksyakc, Paul Campbell"
 output: html_document
 ---
 # WDDM 113/114 - Group assignment
-######Samiksyakc, Elio Gerges, Paul Campbell
+###### Samiksyakc, Elio Gerges, Paul Campbell
 ---
 > Project based on: [Rocco's Notion Notes.](juneate.notion.site/Flex-Layouts-546ae0e27c1648be8114689afb9ebc9e)
 
