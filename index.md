@@ -10,7 +10,7 @@ output: html_document
 
 ---
 
-> Project based on: [Rocco's Notion Notes.](juneate.notion.site/Flex-Layouts-546ae0e27c1648be8114689afb9ebc9e)
+> Project based on: [Rocco's Notion Notes.](https://juneate.notion.site/Flex-Layouts-546ae0e27c1648be8114689afb9ebc9e)
 
 | Table of Content                 | Author             |
 | -------------------------------- | -------------      |
